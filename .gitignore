@@ -1,0 +1,19 @@
+# Core
+.venv-312/
+__pycache__/
+*.pyc
+
+# User Exclusions (Do not track in repo)
+dump/
+pdfs/
+qdrant_data/
+.env
+# reference/
+
+# Legacy / Unused
+*.faiss
+*.pkl
+history
+aau_token
+.nonadmin
+*.pdf
