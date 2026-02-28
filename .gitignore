@@ -7,6 +7,7 @@ __pycache__/
 dump/
 pdfs/
 qdrant_data/
+models/
 .env
 # reference/
 
